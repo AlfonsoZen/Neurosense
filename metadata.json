@@ -1,0 +1,7 @@
+{
+  "name": "NeuroSense",
+  "description": "A futuristic AI-powered emotion perception interface using 3D visualization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
